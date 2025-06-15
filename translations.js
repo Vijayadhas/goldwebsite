@@ -66,7 +66,7 @@ const translations = {
         footerPhone: "Phone: +91 9941777299",
         footerEmail: "Email: vijaydhascr@gmail.com",
         workingHours: "Working Hours: Monday - Friday: 10:00 AM - 7:00 PM, Saturday: 10:00 AM - 5:00 PM, Sunday: Closed",
-        rights: "© 2025 Saran Gold. All rights reserved.",
+        rights: "© 2025 V App Hive. All rights reserved.",
         
         // Gold Rules Section
         goldRulesTitle: "Gold Selling Guidelines",
@@ -110,20 +110,20 @@ const translations = {
         footerEmail: "Email: vijaydhascr@gmail.com",
 
         // Privacy Policy Page
-        privacy_policy_title: "Privacy Policy - Gold Value",
+        privacy_policy_title: "Privacy Policy - V App Hive",
         privacy_policy_heading: "Privacy Policy",
-        privacy_policy_intro_p1: "Gold Value is developed and published by V App Hive as a free app. This SERVICE is provided by V App Hive at no cost and is intended for use as is.",
+        privacy_policy_intro_p1: "V App Hive is developed and published by V App Hive as a free app. This SERVICE is provided by V App Hive at no cost and is intended for use as is.",
         privacy_policy_intro_p2: "This page is used to inform users regarding our policies with the collection, use, and disclosure of personal information if anyone decides to use our Service.",
         info_collection_use_heading: "Information Collection and Use",
-        info_collection_use_p1: "Gold Value does not collect any personally identifiable information from users. The app does not require registration, login, or access to personal data.",
+        info_collection_use_p1: "V App Hive does not collect any personally identifiable information from users. The app does not require registration, login, or access to personal data.",
         log_data_heading: "Log Data",
         log_data_p1: "In case of an error in the app, we may collect data and information (through third-party products) on your device called Log Data. This may include your device's IP address, device name, operating system version, app configuration, the time and date of your use of the Service, and other statistics. This data is collected only for diagnostics and improving the app's performance.",
         cookies_heading: "Cookies",
-        cookies_p1: "Gold Value does not use cookies explicitly. However, the app may include third-party libraries that use cookies to collect information and improve their services.",
+        cookies_p1: "V App Hive does not use cookies explicitly. However, the app may include third-party libraries that use cookies to collect information and improve their services.",
         service_providers_heading: "Service Providers",
         service_providers_p1: "We do not employ third-party companies or individuals to collect or process personal data on our behalf.",
         childrens_privacy_heading: "Children's Privacy",
-        childrens_privacy_p1: "Gold Value is not intended for use by anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will immediately delete such information from our systems.",
+        childrens_privacy_p1: "V App Hive is not intended for use by anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will immediately delete such information from our systems.",
         changes_to_privacy_policy_heading: "Changes to This Privacy Policy",
         changes_to_privacy_policy_p1: "We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will notify users of any updates by posting the new Privacy Policy on this page.",
         contact_us_privacy_heading: "Contact Us",
@@ -240,23 +240,23 @@ const translations = {
         footerEmail: "மின்னஞ்சல்: vijaydhascr@gmail.com",
 
         // Privacy Policy Page
-        privacy_policy_title: "தனியுரிமைக் கொள்கை - தங்க மதிப்பு",
+        privacy_policy_title: "தனியுரிமைக் கொள்கை - V App Hive",
         privacy_policy_heading: "தனியுரிமைக் கொள்கை",
-        privacy_policy_intro_p1: "கோல்ட் வேல்யூ ஒரு இலவச செயலியாக V App Hive ஆல் உருவாக்கப்பட்டு வெளியிடப்பட்டது. இந்த சேவை V App Hive ஆல் இலவசமாக வழங்கப்படுகிறது, மேலும் இது அப்படியே பயன்படுத்தப்பட வேண்டும்.",
+        privacy_policy_intro_p1: "V App Hive ஒரு இலவச செயலியாக V App Hive ஆல் உருவாக்கப்பட்டு வெளியிடப்பட்டது. இந்த சேவை V App Hive ஆல் இலவசமாக வழங்கப்படுகிறது, மேலும் இது அப்படியே பயன்படுத்தப்பட வேண்டும்.",
         privacy_policy_intro_p2: "எங்கள் சேவையை யாராவது பயன்படுத்த முடிவு செய்தால், தனிப்பட்ட தகவல்களை சேகரித்தல், பயன்படுத்துதல் மற்றும் வெளிப்படுத்துதல் தொடர்பான எங்கள் கொள்கைகளை பயனர்களுக்கு தெரிவிக்க இந்த பக்கம் பயன்படுத்தப்படுகிறது.",
         info_collection_use_heading: "தகவல் சேகரிப்பு மற்றும் பயன்பாடு",
-        info_collection_use_p1: "கோல்ட் வேல்யூ பயனர்களிடமிருந்து எந்த தனிப்பட்ட அடையாள தகவலையும் சேகரிக்காது. பயன்பாட்டிற்கு பதிவு, உள்நுழைவு அல்லது தனிப்பட்ட தரவை அணுகுதல் தேவையில்லை.",
+        info_collection_use_p1: "V App Hive பயனர்களிடமிருந்து எந்த தனிப்பட்ட அடையாள தகவலையும் சேகரிக்காது. பயன்பாட்டிற்கு பதிவு, உள்நுழைவு அல்லது தனிப்பட்ட தரவை அணுகுதல் தேவையில்லை.",
         log_data_heading: "பதிவு தரவு",
         log_data_p1: "பயன்பாட்டில் பிழை ஏற்பட்டால், உங்கள் சாதனத்தில் பதிவு தரவு எனப்படும் தரவு மற்றும் தகவல்களை (மூன்றாம் தரப்பு தயாரிப்புகள் மூலம்) நாங்கள் சேகரிக்கலாம். இதில் உங்கள் சாதனத்தின் IP முகவரி, சாதனத்தின் பெயர், இயக்க முறைமை பதிப்பு, பயன்பாட்டின் உள்மைவு, சேவையைப் பயன்படுத்திய நேரம் மற்றும் தேதி மற்றும் பிற புள்ளிவிவரங்கள் ஆகியவை அடங்கும். இந்த தரவு கண்டறிதல்கள் மற்றும் பயன்பாட்டின் செயல்திறனை மேம்படுத்துவதற்காக மட்டுமே சேகரிக்கப்படுகிறது.",
         cookies_heading: "குக்கீகள்",
-        cookies_p1: "கோல்ட் வேல்யூ குக்கீகளை வெளிப்படையாகப் பயன்படுத்துவதில்லை. இருப்பினும், பயன்பாட்டில் தகவல் சேகரிக்கவும், தங்கள் சேவைகளை மேம்படுத்தவும் குக்கீகளைப் பயன்படுத்தும் மூன்றாம் தரப்பு நூலகங்கள் இருக்கலாம்.",
+        cookies_p1: "V App Hive குக்கீகளை வெளிப்படையாகப் பயன்படுத்துவதில்லை. இருப்பினும், பயன்பாட்டில் தகவல் சேகரிக்கவும், தங்கள் சேவைகளை மேம்படுத்தவும் குக்கீகளைப் பயன்படுத்தும் மூன்றாம் தரப்பு நூலகங்கள் இருக்கலாம்.",
         service_providers_heading: "சேவை வழங்குநர்கள்",
         service_providers_p1: "எங்கள் சார்பாக தனிப்பட்ட தரவை சேகரிக்கவோ அல்லது செயல்படுத்தவோ நாங்கள் மூன்றாம் தரப்பு நிறுவனங்கள் அல்லது தனிநபர்களைப் பயன்படுத்துவதில்லை.",
         childrens_privacy_heading: "குழந்தைகளின் தனியுரிமை",
-        childrens_privacy_p1: "கோல்ட் வேல்யூ 13 வயதிற்குட்பட்டவர்களால் பயன்படுத்தப்படாது. 13 வயதிற்குட்பட்ட குழந்தைகளிடமிருந்து தனிப்பட்ட அடையாள தகவல்களை நாங்கள் அறிந்தே சேகரிப்பதில்லை. 13 வயதிற்குட்பட்ட ஒரு குழந்தை எங்களுக்கு தனிப்பட்ட தகவல்களை வழங்கியிருப்பதை நாங்கள் அறிந்தால், எங்கள் கணினிகளிலிருந்து அத்தகைய தகவல்களை உடனடியாக நீக்குவோம்.",
+        childrens_privacy_p1: "V App Hive 13 வயதிற்குட்பட்டவர்களால் பயன்படுத்தப்படாது. 13 வயதிற்குட்பட்ட குழந்தைகளிடமிருந்து தனிப்பட்ட அடையாள தகவல்களை நாங்கள் அறிந்தே சேகரிப்பதில்லை. 13 வயதிற்குட்பட்ட ஒரு குழந்தை எங்களுக்கு தனிப்பட்ட தகவல்களை வழங்கியிருப்பதை நாங்கள் அறிந்தால், எங்கள் கணினிகளிலிருந்து அத்தகைய தகவல்களை உடனடியாக நீக்குவோம்.",
         changes_to_privacy_policy_heading: "இந்த தனியுரிமைக் கொள்கையில் மாற்றங்கள்",
         changes_to_privacy_policy_p1: "நாங்கள் எங்கள் தனியுரிமைக் கொள்கையை அவ்வப்போது புதுப்பிக்கலாம். எந்த மாற்றங்களுக்கும் இந்த பக்கத்தை அவ்வப்போது மதிப்பாய்வு செய்யுமாறு உங்களுக்கு அறிவுறுத்தப்படுகிறது. இந்த பக்கத்தில் புதிய தனியுரிமைக் கொள்கையை வெளியிட்டு பயனர்களுக்கு எந்த புதுப்பிப்புகளையும் அறிவிப்போம்.",
         contact_us_privacy_heading: "எங்களை தொடர்பு கொள்ளவும்",
         contact_us_privacy_p1: "எங்கள் தனியுரிமைக் கொள்கை பற்றி உங்களுக்கு ஏதேனும் கேள்விகள் அல்லது பரிந்துரைகள் இருந்தால், எங்களை தொடர்பு கொள்ள தயங்க வேண்டாம்: vappshive@gmail.com"
     }
-}; 
+};
